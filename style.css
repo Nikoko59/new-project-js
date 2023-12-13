@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+}
+
+body {
+    background: #f2f2f2;
+    font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ; 
+
+}
+
+
+#custom-coque {
+    margin: 10px;
+    padding: 10px;
+    border : 2px solid orange; 
+    background: #070142;
+    color: white;
+}
+
+#coque-online {
+    text-align: center;
+    text-transform: capitalize;
+   
+}
+
+#btn1 {
+    padding : 8px 16px; 
+    background: orange; 
+    border: 1px solid #070142; 
+    font-size: 0.9rem; 
+    cursor : pointer; 
+}
